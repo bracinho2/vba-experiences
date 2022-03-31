@@ -6,5 +6,6 @@
 
 - Como enviar varios Posts Sequenciais com intervalo de 5s via VBA?
     Precisei automatizar o processo de matrículas de vários alunos via VBA; Segue o código de exemplo que pode ser adaptado para outros usos no Excel;
+    
     [https://github.com/bracinho2/vba-experiences/blob/main/enviar_dados_api_vba_excel.vba]
 
